@@ -1,2 +1,3 @@
-# notes
-My personal notes and reference
+# Notes
+
+This repository contains my personal notes.
